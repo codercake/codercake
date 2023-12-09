@@ -1,7 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1>Good Day, there!<h1>
+  <h3> As a dedicated Computer Applications Undergrad student, I’m eagerly exploring new opportunities to expand my skill set, I embrace challenges that come my way. Whether, it’s coding, web development, or diving into emerging tech trends, I’m driven to enhance my knowledge. 
 
+Additionally, I am venturing into the realm of competitive programming to sharpen my problem-solving skills and expand my knowledge base. 
 
+You’d also find me reading books, playing carrom board or literally just browsing Firstpost videos.</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ishitha-chaudhary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@trulymadlydeeply1) 
 
