@@ -1,9 +1,9 @@
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 😎 Ishitha Jain
+╔════════════════════════ Hey There! ════════════════════════╗ 👩🏻‍💻 Ishitha Jain
 ║ I'm a BCA Student studying in HITS, Chennai.           ║ ┣━━ 💻 Web development
 ║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterializeUI
 ║ My areas of interest are AI/ML, Full-stack Development,    ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
-║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ C++
+║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ PHP
 ║ every other thing out there. I love working with various   ║ ┣━━ 🖌️ Figma, Canva
 ║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/Generative AI
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
@@ -17,7 +17,7 @@
 
 ____
 
-### Languages and tools I know and have worked with
+### Languages and tools I know and have worked with :P
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
