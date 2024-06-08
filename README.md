@@ -1,9 +1,9 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ 👩🏻‍💻 Ishitha Jain
-║ I'm a BCA Student studying in HITS, Chennai.           ║ ┣━━ 💻 Web development
-║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterializeUI
-║ My areas of interest are AI/ML, Full-stack Development,    ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
-║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ PHP
+║ I'm a Computer Science Student studying in HITS, Chennai.  ║ ┣━━ 💻 Web development
+║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterialUI
+║ My areas of interest are AI/ML, Full-stack Development,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI, MongoDB
+║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ C++, Java, PHP, C#
 ║ every other thing out there. I love working with various   ║ ┣━━ 🖌️ Figma, Canva
 ║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/Generative AI
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
