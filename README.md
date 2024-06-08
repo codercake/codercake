@@ -77,18 +77,13 @@ ____
 </div>
 
 ___
+  <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=codercake&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codercake&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=codercake&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codercake&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
-</div>
-<br />
-
-<!--- Center Section --->
-<div align="center" width="400px">
-  <!--- GitHub Stats --->
-  <img src="https://github-readme-stats.vercel.app/api?username=codercake&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=codercake&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 
 
