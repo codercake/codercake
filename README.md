@@ -1,12 +1,13 @@
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 👩🏻‍💻 Ishitha Jain
-║ I'm a Computer Science Student studying in HITS, Chennai.  ║ ┣━━ 💻 Web development
-║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterialUI
-║ My areas of interest are AI/ML, Full-stack Development,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI, MongoDB
-║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ C++, Java, PHP, C#
-║ every other thing out there. I love working with various   ║ ┣━━ 🖌️ Figma, Canva
-║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/Generative AI
+╔════════════════════════ Hey There! ════════════════════════╗ 👩🏻‍💻 I'm Ishitha!
+║ My areas of interest include AI/ML, Full-stack Development,║ ┣━━ 💻 Web development
+║ Web Development, Cloud, Cyber Security, and exploring      ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, MaterialUI
+║ various tech domains. I enjoy learning and working with    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI, MongoDB
+║ different tools and technologies.                          ║ ┃   ┗━━ ⭐ C++, Java, PHP, 
+║                                                            ║ ┣━━ 🖌️ Figma, Canva
+║                                                            ║ ┣━━ 🤖 AI/ML/Generative AI, MVP
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+
 ```
 
 <div align="center">
